@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Weather Forecast</title>
+</head>
+
+<body>
+
+<div class="header">
+    <input type="text" id="city"/>
+    <button id="btnGetEvents">Get Events</button>
+</div>
+
+
+<div class="leftArea">
+    <ul id="categoriesList"></ul>
+</div>
+
+<form id="eventsForm">
+
+    <div class="mainArea">
+
+        <label>Location:</label>
+        <input id="txtLocation" name="location" type="text" disabled />
+
+        <label>Category:</label>
+        <input type="text" id="txtCategory" name="category" required />
+
+        <br/> <br/> <br/>
+        <label><b>Events</b></label>
+        <table></table>
+
+    </div>
+
+</form>
+
+<script src="js/jquery-1.7.1.min.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>

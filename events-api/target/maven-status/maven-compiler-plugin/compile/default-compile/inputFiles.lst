@@ -1,0 +1,9 @@
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/com/bb/events/app/evts/controller/EventsController.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/com/bb/events/app/evts/service/EventsService.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/com/bb/events/app/evts/Program.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/web/SpringServletInitializer.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/com/bb/events/app/evts/util/HttpUtil.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/com/bb/events/app/evts/config/RootConfig.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/web/WebContextListener.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/com/bb/events/app/evts/config/MvcConfig.java
+/home/bilge/IdeaProjects/EventsApp/events-api/src/main/java/com/bb/events/app/evts/config/JettyConfig.java
